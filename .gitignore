@@ -18,3 +18,4 @@ node_modules/
 
 # Empty/editor artifacts
 .codex
+config.bat
